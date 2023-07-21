@@ -1,0 +1,117 @@
+{
+	"folders": [
+		{
+			"path": "../../Projeto"
+		},
+		{
+			"path": "../meus testes"
+		},
+		{
+			"path": "../html_css/exercicios/ex001"
+		},
+		{
+			"path": "../html_css/exercicios/ex002"
+		},
+		{
+			"path": "../html_css/exercicios/ex003"
+		},
+		{
+			"path": "../html_css/exercicios/ex004"
+		},
+		{
+			"path": "../html_css/exercicios/ex005"
+		},
+		{
+			"path": "../html_css/exercicios/ex006"
+		},
+		{
+			"path": "../html_css/exercicios/ex007"
+		},
+		{
+			"path": "../html_css/exercicios/ex008"
+		},
+		{
+			"path": "../html_css/exercicios/ex008b"
+		},
+		{
+			"path": "../html_css/exercicios/ex009"
+		},
+		{
+			"path": "../html_css/exercicios/ex010"
+		},
+		{
+			"path": "../html_css/exercicios/ex011"
+		},
+		{
+			"path": "../html_css/exercicios/ex012"
+		},
+		{
+			"path": "../html_css/exercicios/ex013"
+		},
+		{
+			"path": "../html_css/exercicios/ex014"
+		},
+		{
+			"path": "../html_css/exercicios/ex015"
+		},
+		{
+			"path": "../html_css/exercicios/ex016"
+		},
+		{
+			"path": "../meus testes/d007"
+		},
+		{
+			"path": "../meus testes/d008"
+		},
+		{
+			"path": "../meus testes/d009"
+		},
+		{
+			"path": "../meus testes/d003"
+		},
+		{
+			"path": "../html_css/exercicios/ex017"
+		},
+		{
+			"path": "../html_css/exercicios/ex018"
+		},
+		{
+			"path": "../html_css/exercicios/ex019"
+		},
+		{
+			"path": "../html_css/exercicios/ex020"
+		},
+		{
+			"path": "../html_css/exercicios/ex021"
+		},
+		{
+			"path": "../html_css/desafios/d10"
+		},
+		{
+			"path": "../html_css/desafios/d10a"
+		},
+		{
+			"path": "../html_css/desafios/d10_guanabara"
+		},
+		{
+			"path": "../html_css/d k/D10-20230717T013213Z-001/D10K"
+		},
+		{
+			"path": "../html-css/desafios/d010"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"explorer.compactFolders": false,
+		"workbench.editor.enablePreview": true,
+		"workbench.iconTheme": "material-icon-theme",
+		"workbench.colorTheme": "Omni",
+		"terminal.integrated.fontSize": 16,
+		"terminal.integrated.profiles.windows": {
+			"Git Bash": {
+				"source": "Git Bash"
+			}
+		},
+		"terminal.integrated.defaultProfile.windows": "Git Bash"
+	}
+}
