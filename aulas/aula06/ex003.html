@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa</title>
+    <style>
+        body {
+            background-color: rgba(119, 136, 153, 0.719);
+            color: white;
+            font-weight: bold;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo!</h1>
+    <p>Já me livrei da maldição!!</p>
+    <script>
+        var n1 = Number(window.prompt('Digite um número: ')) /* String */
+        var n2 = Number(window.prompt('Digite um número: '))
+        var s = n1 + n2
+        window.alert(`A soma entre ${n1} e ${n2} é igual a ${s}`) // Concatenação
+        // (number  number + number) para adição
+        //  (string + string) para concatenação
+        /* Converter String > Numero inteiro
+            Number.parseInt(n)
+
+            > Numero real, com virgula
+            Number.parseFloar(n) 
+            
+            Pode usar só o Number também, o Java entende*/
+
+
+        /*  Numero para String
+            String(n)
+            n.toString() */
+
+
+        /* 
+        
+        var s = 'JavaScript'
+            'Eu estou aprendendo s'     - não faz interpolação
+            'Eu estou aprendendo' + s   - usa concatenação
+            `Eu estou aprendendo ${s}`  - usa template string 
+            
+            
+        var s = 'JavaScript'
+            s.length            - para contar quantas letras tem
+            s.toUpperCase()     - para deixar letras maiusculas  
+            s.toLowerCase()     - para deixar letras minusculas*/
+    </script>
+</body>
+</html>
